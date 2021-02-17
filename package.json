@@ -1,0 +1,22 @@
+{
+  "name": "osuhpbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabyYodaPt/osuhpbar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabyYodaPt/osuhpbar/issues"
+  },
+  "homepage": "https://github.com/BabyYodaPt/osuhpbar#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
